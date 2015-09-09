@@ -1,0 +1,34 @@
+<Workspace
+	CID = "1"
+	NextCID = "2"
+	IconCategory = "Miscellaneous">
+	<OpenFiles
+		CID = "1"
+		LastActive = "5">
+		<File
+			FileID = "2BE7B385-E93B-4B07-92450F917D25716F"
+			RootPath = "$Container"
+			RelativePathname = "ProducedReportPage.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "648DB3B6-9328-4125-BE5C4B6811E4154B"
+			RootPath = "$Container"
+			RelativePathname = "UnproducedReportPage.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "D057D977-B525-4362-819717AA1FEFD952"
+			RootPath = "$Container"
+			RelativePathname = "HomePage.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "A0C8F272-C47D-42CE-9CFA4AEABAEB8B06"
+			RootPath = "$Container"
+			RelativePathname = "DataGatherPage.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "54B0B55C-5B0A-4384-A4D5BBC13750D387"
+			RootPath = "$Container"
+			RelativePathname = "storyboard01.gui"
+			ViewSettings = ""/>
+	</OpenFiles>
+</Workspace>

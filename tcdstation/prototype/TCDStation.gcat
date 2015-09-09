@@ -1,0 +1,47 @@
+<Catalogue
+	CID = "1"
+	NextCID = "2">
+	<Files
+		CID = "1">
+		<FileInfo
+			ID = "2BE7B385-E93B-4B07-92450F917D25716F"
+			RelativePath = "ProducedReportPage.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "ProducedReportPage.gui"/>
+		<FileInfo
+			ID = "4B06782C-20D7-4757-A03EFDB4D337A8DC"
+			RelativePath = "ReportManagementPage.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "ReportManagementPage.gui"/>
+		<FileInfo
+			ID = "54B0B55C-5B0A-4384-A4D5BBC13750D387"
+			RelativePath = "storyboard01.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "storyboard01.gui"/>
+		<FileInfo
+			ID = "648DB3B6-9328-4125-BE5C4B6811E4154B"
+			RelativePath = "UnproducedReportPage.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "UnproducedReportPage.gui"/>
+		<FileInfo
+			ID = "A0C8F272-C47D-42CE-9CFA4AEABAEB8B06"
+			RelativePath = "DataGatherPage.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DataGatherPage.gui"/>
+		<FileInfo
+			ID = "BA268057-7F42-4894-BE2B01FFB6FA4C2D"
+			RelativePath = "_Data\PatientInfo.csv"
+			OriginalRoot = "$Project"
+			OriginalPath = "_Data\PatientInfo.csv"/>
+		<FileInfo
+			ID = "D057D977-B525-4362-819717AA1FEFD952"
+			RelativePath = "HomePage.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "HomePage.gui"/>
+		<FileInfo
+			ID = "D26733F6-4FDF-4A17-B1EADBC7097C12E9"
+			RelativePath = "ReportGenerationPage.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "ReportGenerationPage.gui"/>
+	</Files>
+</Catalogue>
